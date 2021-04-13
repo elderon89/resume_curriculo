@@ -1,2 +1,2 @@
-# resume_curriculo
-Disponibilizando meu CV no repositório público utilizando HTML puro.
+# Meu CV em HTML
+Disponibilizando meu CV no repositório público utilizando HTML.
